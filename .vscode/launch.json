@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Moosa",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\main.dart"
+        }
+    ]
+}
